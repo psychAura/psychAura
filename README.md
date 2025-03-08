@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Hi, I’m Kausara Kpabia (psychAura)!
 
-<!--
-**psychAura/psychAura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Analyst | Power BI Enthusiast | Aspiring Computational Researcher**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about uncovering insights from data and building impactful visualizations. My expertise lies at the intersection of health data analysis, bioinformatics, and computational methods. I use tools like Power BI, SQL, Python, Excel, Tableau, and machine learning to tell data-driven stories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 **Pronouns:** She/Her  
+⚡ **Fun fact:** I’m obsessed with Anne Frank's diary and love exploring the intersection of medicine and computer science.
+
+## 💡 What I’m Working On
+- 🏥 Health Data Analytics & Visualizations
+- 📊 Power BI Dashboards
+- 🧬 Computational Research in Microbiome Profiling
+- 💻 Data Analysis Projects using Python, SQL, and Excel
+- 📈 Building Tableau Visualizations
+- 🤖 Machine Learning Projects for Health Data
+
+## 🌟 Featured Projects
+- [🌍 WHO Life Expectancy Analytics — Power BI](https://github.com/psychAura/WHO-Life-Expectancy-Analytics--PowerBI)  
+  Interactive Power BI dashboard exploring global health trends and life expectancy data.
+
+- [💉 Healthcare Data Analysis with SQL](https://github.com/psychAura/Healthcare-SQL-Project)  
+  SQL queries and insights derived from real-world healthcare datasets.
+
+- [🔬 Bioinformatics Glucose Profiling](https://github.com/psychAura/Glucose-Microbiome-Project)  
+  Computational methods for profiling glucose and microbiome interactions.
+
+## 🛠 Tech Stack
+- 🐍 **Programming:** Python (Pandas, NumPy)
+- 🗃️ **Databases:** MySQL, MongoDB
+- 🌐 **Backend Development:** Node.js, Express
+- 📈 **Data Analysis & Visualization:** Power BI, Excel, Tableau, Matplotlib, Seaborn
+- 🤖 **Machine Learning:** Scikit-learn, TensorFlow
+- 📝 **Reporting & Documentation:** Power BI Reports, Jupyter Notebooks
+
+## 🌱 Learning & Growing
+- 🚀 Advanced Power BI techniques and DAX
+- 🧠 Machine learning for health data
+- 📊 Mastering Tableau Visualizations
+- 🌍 Freelancing as a data analyst
+
+## 🔭 Currently Working On
+- Building Power BI dashboards for health data visualization
+- Enhancing SQL querying and optimization skills
+- Developing Tableau dashboards for business insights
+- Exploring predictive modeling with Python
+
+## 🌱 Currently Learning
+- Advanced DAX functions in Power BI
+- Predictive modeling and machine learning with Python
+- Advanced Tableau techniques
+
+## 👯 Looking to Collaborate On
+- Health data analytics projects
+- Research in microbiome profiling and glucose metabolism
+- Machine learning projects in healthcare
+- Tableau dashboard development
+
+## 🤔 Looking for Help With
+- Advanced Power BI performance optimization
+- Improving machine learning model accuracy
+- Breaking into high-paying freelance gigs
+
+## 💬 Ask Me About
+- Health data analysis and visualization
+- Building interactive Power BI and Tableau dashboards
+- Implementing machine learning models for health data
+
+## 📫 How to Reach Me
+- 💼 **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/kausarakpabia/])
+- 📧 **Email:** kausara931@gmail.com
+
+Thank you for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or discuss data-driven projects. 🚀
+
+
