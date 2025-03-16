@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kausara Kpabia (psychAura)!
 
-🎓 **Data Analyst | Power BI Enthusiast | Aspiring Computational Researcher**
+🎓 **Data Analyst | Power BI Analyst | ML Engineer | Computational Researcher**
 
 Welcome to my GitHub! I’m passionate about uncovering insights from data and building impactful visualizations. My expertise lies at the intersection of health data analysis, bioinformatics, and computational methods. I use tools like Power BI, SQL, Python, Excel, Tableau, and machine learning to tell data-driven stories.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m passionate about uncovering insights from data and b
 ⚡ **Fun fact:** I’m obsessed with Anne Frank's diary and love exploring the intersection of medicine and computer science.
 
 ## 💡 What I’m Working On
-- 🏥 Health Data Analytics & Visualizations
+- 🏥 Data Analytics & Visualizations
 - 📊 Power BI Dashboards
 - 🧬 Computational Research in Microbiome Profiling
 - 💻 Data Analysis Projects using Python, SQL, and Excel
@@ -22,12 +22,9 @@ Welcome to my GitHub! I’m passionate about uncovering insights from data and b
 - [💉 Healthcare Data Analysis with SQL](https://github.com/psychAura/Healthcare-SQL-Project)  
   SQL queries and insights derived from real-world healthcare datasets.
 
-- [🔬 Bioinformatics Glucose Profiling](https://github.com/psychAura/Glucose-Microbiome-Project)  
-  Computational methods for profiling glucose and microbiome interactions.
-
 ## 🛠 Tech Stack
 - 🐍 **Programming:** Python (Pandas, NumPy)
-- 🗃️ **Databases:** MySQL, MongoDB
+- 🗃️ **Databases:** MySQL, POSTGRES SQL, MongoDB
 - 🌐 **Backend Development:** Node.js, Express
 - 📈 **Data Analysis & Visualization:** Power BI, Excel, Tableau, Matplotlib, Seaborn
 - 🤖 **Machine Learning:** Scikit-learn, TensorFlow
@@ -46,15 +43,16 @@ Welcome to my GitHub! I’m passionate about uncovering insights from data and b
 - Exploring predictive modeling with Python
 
 ## 🌱 Currently Learning
+-Advanced SQL querying and data manipulation
 - Advanced DAX functions in Power BI
 - Predictive modeling and machine learning with Python
-- Advanced Tableau techniques
+- Advanced Excel and Tableau techniques
 
 ## 👯 Looking to Collaborate On
-- Health data analytics projects
+- Data analytics projects
 - Research in microbiome profiling and glucose metabolism
 - Machine learning projects in healthcare
-- Tableau dashboard development
+- PowerBI  dashboard development
 
 ## 🤔 Looking for Help With
 - Advanced Power BI performance optimization
@@ -62,7 +60,7 @@ Welcome to my GitHub! I’m passionate about uncovering insights from data and b
 - Breaking into high-paying freelance gigs
 
 ## 💬 Ask Me About
-- Health data analysis and visualization
+- Data analysis and visualization
 - Building interactive Power BI and Tableau dashboards
 - Implementing machine learning models for health data
 
