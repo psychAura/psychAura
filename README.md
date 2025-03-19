@@ -65,7 +65,7 @@ Welcome to my GitHub! I’m passionate about uncovering insights from data and b
 - Implementing machine learning models for health data
 
 ## 📫 How to Reach Me
-- 💼 **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/kausarakpabia/])
+- 💼 **LinkedIn:** ([https://www.linkedin.com/in/kausarakpabia/])
 - 📧 **Email:** kausara931@gmail.com
 
 Thank you for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or discuss data-driven projects. 🚀
