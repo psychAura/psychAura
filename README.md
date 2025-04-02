@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kausara Kpabia (psychAura)!
 
-🎓 **Data Analyst | Power BI Analyst | ML Engineer | Computational Researcher**
+🎓 **Data Analyst | Backend Developer | ML Engineer | Computational Researcher**
 
 Welcome to my GitHub! I’m passionate about uncovering insights from data and building impactful visualizations. My expertise lies at the intersection of health data analysis, bioinformatics, and computational methods. I use tools like Power BI, SQL, Python, Excel, Tableau, and machine learning to tell data-driven stories.
 
